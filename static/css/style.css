@@ -8,3 +8,17 @@ body,
 html {
   height: 100%;
 }
+
+.info.legend {
+  background: white;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.info.legend i {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin-right: 5px;
+}
